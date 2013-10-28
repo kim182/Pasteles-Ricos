@@ -33,7 +33,7 @@ Situacion 1. Pasteles ricos: 336
 Situacion 2. Pasteles ricos: 3594
 Situacion 3. Pasteles ricos: 3594
 Situacion 4. Pasteles ricos: 3594
----------------------------------------------
+
 Total de pasteles ricos: 11118
 
 
